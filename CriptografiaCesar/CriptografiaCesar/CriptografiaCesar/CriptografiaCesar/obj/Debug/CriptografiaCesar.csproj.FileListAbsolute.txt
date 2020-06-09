@@ -1,0 +1,7 @@
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\obj\Debug\CriptografiaCesar.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\obj\Debug\CriptografiaCesar.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\bin\Debug\CriptografiaCesar.exe.config
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\bin\Debug\CriptografiaCesar.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\bin\Debug\CriptografiaCesar.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\obj\Debug\CriptografiaCesar.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\CriptografiaCesar\CriptografiaCesar\obj\Debug\CriptografiaCesar.pdb

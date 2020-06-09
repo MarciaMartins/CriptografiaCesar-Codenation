@@ -1,0 +1,7 @@
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\CriptografiaCesar\Teste\Teste\obj\Debug\Teste.pdb
